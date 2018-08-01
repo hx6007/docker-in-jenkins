@@ -1,0 +1,1 @@
+docker run -d -p 8080:8080 --name jenkins -v /usr/bin/docker:/usr/bin/docker  -v /var/run/docker.sock:/var/run/docker.sock -v /root/maven-tar:/root -v /usr/lib64/libltdl.so.7:/usr/lib64/libltdl.so.7  csphere/jenkins:1.609
