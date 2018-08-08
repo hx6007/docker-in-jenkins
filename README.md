@@ -1,6 +1,6 @@
 git clone git@github.com:hx6007/docker-in-jenkins.git
 
-cd docker-in-jenkins/centos7/
+cd  centos7/
 
 docker build -t  csphere/centos:7.1 .
 
