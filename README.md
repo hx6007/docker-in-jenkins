@@ -1,4 +1,4 @@
-git clone git@github.com:hx6007/docker-in-jenkins.git
+git clone git@github.com:hx6007/docker-in-jenkins.git  && cd docker-in-jenkins && ./install.sh
 
 cd  centos7/
 
